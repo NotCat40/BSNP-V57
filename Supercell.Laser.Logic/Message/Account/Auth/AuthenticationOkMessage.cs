@@ -59,7 +59,7 @@
             Stream.WriteBoolean(true);
             Stream.WriteBoolean(true);
             Stream.WriteBoolean(true);
-            Console.WriteLine("[DEBUG] [LoginOkMessage::Encode] Message created!");
+            //Console.WriteLine("[DEBUG] [LoginOkMessage::Encode] Message created!");
         }
 
         public override int GetMessageType()
