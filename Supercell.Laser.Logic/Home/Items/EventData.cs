@@ -15,53 +15,45 @@
         public int LocationId;
         public DateTime EndTime;
         public LocationData Location => DataTables.Get(DataType.Location).GetDataByGlobalId<LocationData>(LocationId);
-        //public BattlePlayerMap BattlePlayerMap;
 
         public void Encode(ByteStream encoder)
         {
-            
             encoder.WriteVInt(-1);
             encoder.WriteVInt(Slot);
+            encoder.WriteVInt(1);
             encoder.WriteVInt(0);
             encoder.WriteVInt((int)(EndTime - DateTime.Now).TotalSeconds);
             encoder.WriteVInt(10);
             if (Slot == 12 || Slot == 13) ByteStreamHelper.WriteDataReference(encoder, null);
-            //else if(LocationId==15000121)ByteStreamHelper.WriteDataReference(encoder, 15000122);
             else ByteStreamHelper.WriteDataReference(encoder, Location);
-
-
-
-            encoder.WriteVInt(0); // GameModeVaridation
+            encoder.WriteVInt(-1);
             encoder.WriteVInt(2);
-
-            encoder.WriteString(null); // 0xacecac
-            encoder.WriteVInt(0); // 0xacecc0
-            encoder.WriteVInt(0); // 0xacecd4
-            encoder.WriteVInt(0); // 0xacece8
-
-            encoder.WriteVInt(0); // modifier
-
-            encoder.WriteVInt(0); // 0xacee58
-            encoder.WriteVInt(0); // 0xacee6c
-            //encoder.WriteBoolean(false);
-            //encoder.WriteVInt(0); // 0xacee6c
-
+            encoder.WriteString("");
             encoder.WriteVInt(0);
-
             encoder.WriteVInt(0);
-            encoder.WriteBoolean(false);//LogicRankedSeason
+            encoder.WriteVInt(0);
+            encoder.WriteVInt(0);
+            encoder.WriteVInt(0);
+            encoder.WriteVInt(0);
+            encoder.WriteBoolean(false); // MapMaker map structure array
+            encoder.WriteVInt(0);
+            encoder.WriteBoolean(false); // Power League array entry
             encoder.WriteVInt(0);
             encoder.WriteVInt(0);
             encoder.WriteBoolean(false);
             encoder.WriteBoolean(false);
             encoder.WriteBoolean(false);
-            //encoder.WriteBoolean(false);
+            encoder.WriteBoolean(false);
             encoder.WriteVInt(-1);
             encoder.WriteBoolean(false);
             encoder.WriteBoolean(false);
             encoder.WriteVInt(-1);
-
-       
+            encoder.WriteVInt(0);
+            encoder.WriteVInt(0);
+            encoder.WriteVInt(0);
+            encoder.WriteBoolean(false);
+            encoder.WriteBoolean(false);
+            encoder.WriteBoolean(false);
         }
     }
 }
