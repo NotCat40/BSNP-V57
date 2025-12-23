@@ -32,7 +32,7 @@ namespace Supercell.Laser.Logic.Message.Home
 
             Home.Encode(Stream);
             Avatar.Encode(Stream);
-            Console.WriteLine("[DEBUG] [OwnHomeDataMessage::Encode] Message Created!");
+            //Console.WriteLine("[DEBUG] [OwnHomeDataMessage::Encode] Message Created!");
         }
 
         public override int GetMessageType()
