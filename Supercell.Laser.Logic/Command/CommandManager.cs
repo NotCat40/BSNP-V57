@@ -48,7 +48,7 @@
                 Debugger.Warning("Command is unhandled: " + type);
                 return null;
             }
-            Console.WriteLine($"[CommandManager::DecodeCommand] Command decoded! CommandName: {CommandTypes[type]}, CommandId: {type}");
+            // Console.WriteLine($"[CommandManager::DecodeCommand] Command decoded! CommandName: {CommandTypes[type]}, CommandId: {type}");
             command.Decode(stream);
             return command;
         }
