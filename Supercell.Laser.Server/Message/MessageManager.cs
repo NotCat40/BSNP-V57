@@ -259,7 +259,7 @@
                 default:
                     break;
             }
-            Logger.Print($"[MessageManager::ReceiveMessage] Message received! PacketName: {message.GetType().Name}, PacketID: {message.GetMessageType()}");
+            // Logger.Print($"[MessageManager::ReceiveMessage] Message received! PacketName: {message.GetType().Name}, PacketID: {message.GetMessageType()}");
         }
 
         private void TeamSpectateMessageReceived(TeamSpectateMessage message)
