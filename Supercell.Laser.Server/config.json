@@ -1,0 +1,8 @@
+{
+  "udp_host": "127.0.0.1",
+  "udp_port": 3306,
+  "database_username": "root",
+  "database_password": "Shurochk_294",
+  "database_name": "psinadb",
+  "doubleTrophies": true
+}

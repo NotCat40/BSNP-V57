@@ -1,0 +1,29 @@
+{
+    "slots": [
+        {
+            "slot": 1,
+            "location": 0,
+            "game_modes": [ "GemGrab" ]
+        },
+        {
+            "slot": 2,
+            "location": 0,
+            "game_modes": [ "Showdown" ]
+        },
+        {
+            "slot": 3,
+            "location": 0,
+            "game_modes": [ "Bounty" ]
+        },
+        {
+            "slot": 4,
+            "location": 0,
+            "game_modes": [ "CTF" ]
+        },
+        {
+            "slot": 5,
+            "location": 0,
+            "game_modes": [ "Heist" ]
+        }
+    ]
+}

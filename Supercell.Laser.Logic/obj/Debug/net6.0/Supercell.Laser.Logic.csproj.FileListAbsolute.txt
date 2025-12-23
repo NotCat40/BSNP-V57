@@ -1,0 +1,148 @@
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\accessories.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\ad_placements.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\alliance_badges.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\alliance_league_modes.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\alliance_league_ranks.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\alliance_roles.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\area_effects.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\battle_feats.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\bosses.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\campaign.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\cards.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\carryables.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\catalog_collections.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\challenges.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\characters.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\club_piggy_levels.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\club_piggy_wins.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\emotes.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\emote_bundles.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\enumerated_id_lists.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\game_mode_variations.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\gear_boosts.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\gear_levels.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\gear_rarities.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\globals.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\items.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\locales.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\locations.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\location_themes.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\maps.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\map_templates.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\mastery_hero_confs.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\mastery_levels.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\mastery_points.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\messages.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\milestones.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\name_colors.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\player_map_environments.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\player_thumbnails.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\player_titles.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\projectiles.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\random_rewards.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\random_reward_containers.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\ranked_locations.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\ranked_ranks.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\regions.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\resources.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\seasonal_skin_sections.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\shop_panel_layouts.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\shop_style_sets.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\skills.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\skins.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\skin_campaigns.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\skin_confs.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\sprays.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\themes.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\tiles.csv
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\fingerprint.json
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\MapPrint.json
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Logic.deps.json
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Logic.dll
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Logic.pdb
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Titan.dll
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Titan.pdb
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.csproj.AssemblyReference.cache
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.AssemblyInfoInputs.cache
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.AssemblyInfo.cs
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.csproj.CoreCompileInputs.cache
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\Supercel.C76E18F5.Up2Date
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.dll
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\refint\Supercell.Laser.Logic.dll
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.pdb
+C:\Users\fallos52\Desktop\бо\Supercell.Laser.Logic\obj\Debug\net6.0\ref\Supercell.Laser.Logic.dll
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.csproj.AssemblyReference.cache
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.AssemblyInfoInputs.cache
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.AssemblyInfo.cs
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.csproj.CoreCompileInputs.cache
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.dll
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\refint\Supercell.Laser.Logic.dll
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\Supercell.Laser.Logic.pdb
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\accessories.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\ad_placements.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\alliance_badges.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\alliance_league_modes.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\alliance_league_ranks.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\alliance_roles.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\area_effects.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\battle_feats.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\bosses.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\campaign.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\cards.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\carryables.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\catalog_collections.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\challenges.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\characters.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\club_piggy_levels.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\club_piggy_wins.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\emotes.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\emote_bundles.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\enumerated_id_lists.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\game_mode_variations.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\gear_boosts.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\gear_levels.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\gear_rarities.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\globals.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\items.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\locales.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\locations.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\location_themes.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\maps.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\map_templates.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\mastery_hero_confs.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\mastery_levels.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\mastery_points.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\messages.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\milestones.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\name_colors.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\player_map_environments.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\player_thumbnails.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\player_titles.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\projectiles.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\random_rewards.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\random_reward_containers.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\ranked_locations.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\ranked_ranks.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\regions.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\resources.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\seasonal_skin_sections.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\shop_panel_layouts.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\shop_style_sets.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\skills.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\skins.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\skin_campaigns.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\skin_confs.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\sprays.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\themes.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\csv_logic\tiles.csv
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\fingerprint.json
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Assets\MapPrint.json
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Logic.deps.json
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Logic.dll
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Logic.pdb
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Titan.dll
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\bin\Debug\net6.0\Supercell.Laser.Titan.pdb
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\Supercel.C76E18F5.Up2Date
+C:\Users\pomidorchik\Pictures\BSP V47\v53\Supercell.Laser.Logic\obj\Debug\net6.0\ref\Supercell.Laser.Logic.dll

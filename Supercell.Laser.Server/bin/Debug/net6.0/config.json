@@ -1,0 +1,9 @@
+﻿{
+
+  "udp_host": "192.168.0.104",
+  "udp_port": 9339,
+  "database_username": "q",
+  "database_password": "q",
+  "database_name":  "q",
+  "MessageLogger" : true
+}

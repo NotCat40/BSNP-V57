@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "qv6nCFAYy04=",
+  "success": true,
+  "projectFilePath": "H:\\Wininit\\Vanilla Servers\\BSNP-V57\\Supercell.Laser.Titan\\Supercell.Laser.Titan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksabo\\.nuget\\packages\\astarpathfinder\\1.0.0\\astarpathfinder.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"AStarPathFinder 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "H:\\Wininit\\Vanilla Servers\\BSNP-V57\\Supercell.Laser.Titan\\Supercell.Laser.Titan.csproj",
+      "warningLevel": 1,
+      "filePath": "H:\\Wininit\\Vanilla Servers\\BSNP-V57\\Supercell.Laser.Titan\\Supercell.Laser.Titan.csproj",
+      "libraryId": "AStarPathFinder",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
