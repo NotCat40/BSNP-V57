@@ -389,7 +389,6 @@ namespace Supercell.Laser.Logic.Home
 
             void NewCommand(SkinData skinData, LogicGiveDeliveryItemsCommand command)
             {
-                Console.WriteLine($"Processing skin: {skinData?.Name}");
                 if (skinData == null) return;
 
                 DeliveryUnit unit = new DeliveryUnit(100);
@@ -420,7 +419,6 @@ namespace Supercell.Laser.Logic.Home
                             }
                             catch (Exception ex)
                             {
-                                Console.WriteLine($"Error processing emote {emoteData.Name}: {ex.Message}");
                             }
                         }
                     }
@@ -450,13 +448,10 @@ namespace Supercell.Laser.Logic.Home
                             }
                             catch (Exception ex)
                             {
-                                // Логирование ошибки
-                                Console.WriteLine($"Error processing thumbnail {playerThumbnailData.Name}: {ex.Message}");
                             }
                         }
                     }
                 }
-                Console.WriteLine($"Found vanity IDs: {string.Join(", ", addedVanityIds)}");
                 if (!hasVanityItems) return;
 
                 command.DeliveryUnits.Add(unit);
@@ -1034,7 +1029,7 @@ namespace Supercell.Laser.Logic.Home
             encoder.WriteVInt(0);
 
             encoder.WriteBoolean(true); // Vanity items
-            encoder.WriteVInt(UnlockedEmotes.Count + UnlockedTituls.Count + UnlockedThumbnails.Count + UnlockedSprays.Count + UnlockedFrames.Count); // Played game modes
+            encoder.WriteVInt(UnlockedEmotes.Count + UnlockedTituls.Count + UnlockedThumbnails.Count + UnlockedSprays.Count + UnlockedFrames.Count);
             foreach (int Emote in UnlockedEmotes)
             {
                 ByteStreamHelper.WriteDataReference(encoder, Emote);
@@ -1074,7 +1069,7 @@ namespace Supercell.Laser.Logic.Home
             encoder.WriteVInt(2023189);
             encoder.WriteVInt(2023189);
             // end LogicDailyData
-            Console.WriteLine("[DEBUG] [ClientHome::LogicDailyData] Module loaded!");
+            // Console.WriteLine("[DEBUG] [ClientHome::LogicDailyData] Module loaded!");
         }
 
         public void LogicConfData(ByteStream encoder, DateTime utcNow)
@@ -1170,7 +1165,7 @@ namespace Supercell.Laser.Logic.Home
             ByteStreamHelper.WriteIntList(encoder, new List<int> { 0, 29, 79, 169, 349, 699 });
             ByteStreamHelper.WriteIntList(encoder, new List<int> { 0, 160, 450, 500, 1250, 2500 });
             // end LogicConfData 
-            Console.WriteLine("[DEBUG] [ClientHome::LogicConfData] Module loaded!");
+            // Console.WriteLine("[DEBUG] [ClientHome::LogicConfData] Module loaded!");
         }
 
         public void Encode(ByteStream encoder)
@@ -1219,7 +1214,7 @@ namespace Supercell.Laser.Logic.Home
             encoder.WriteBoolean(false);
             encoder.WriteVInt(0);
             // end LogicClientHome
-            Console.WriteLine("[DEBUG] [ClientHome] All Modules loaded!");
+            // Console.WriteLine("[DEBUG] [ClientHome] All Modules loaded!");
         }
 
 
