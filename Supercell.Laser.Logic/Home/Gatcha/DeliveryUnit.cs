@@ -34,7 +34,6 @@
             {
                 drop.Encode(stream);
             }
-            stream.WriteVInt(0);
         }
     }
 }
